@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infinite Cosmos.md",
+                "file": "Cosmos.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Infinite Cosmos"
+              "title": "Cosmos"
             }
           }
         ]
@@ -201,6 +201,6 @@
   },
   "active": "2e531a4efd59c519",
   "lastOpenFiles": [
-    "Infinite Cosmos.md"
+    "Cosmos.md"
   ]
 }

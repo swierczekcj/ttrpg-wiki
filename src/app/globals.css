@@ -2,9 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Quick Leaflet Reset: Ensures your map container always has a visible height */
+@import "tailwindcss";
+
+/* Force Tailwind v4 to deep-scan every file inside source directory */
+@source "../**/*.{js,jsx,ts,tsx}";
+
+
+
 .leaflet-container {
   width: 100%;
   height: 100%;
-  background-color: #0f172a; /* Dark background default matching your world grid */
+  background-color: #0f172a; 
 }

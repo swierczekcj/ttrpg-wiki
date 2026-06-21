@@ -1,6 +1,8 @@
-import "./globals.css";
+import "../globals.css";
 // You can import Leaflet's official CSS styles globally here so they apply to your map
 import "leaflet/dist/leaflet.css";
+
+
 
 export const metadata = {
   title: "My TTRPG Universe Wiki",
